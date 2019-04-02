@@ -64,7 +64,7 @@ D0相同时，高斯高通滤波器和二阶巴特沃斯高通滤波器的增强
 我使用python numpy库根据高斯噪声与butterworth定义完成实现。
 #### 结果展示
 Unmask Test3:
-![Alt text](https://github.com/HanningLin/hw5/tree/master/img/3-unmask_highpass_of_test3_corrupt_n:0_d0:0_sr:25.11225066316397.bmp)
+![Alt text](https://github.com/HanningLin/hw5/tree/master/img/3-unmask_highpass_of_test3_corrupt_n\:0_d0:0_sr\:25.11225066316397.bmp)
 Laplace Test3:
 ![Alt text](https://github.com/HanningLin/hw5/tree/master/img/3-laplace_highpass_of_test3_corrupt_n:0_d0:0_sr:0.0062653473642985645.bmp)
 Unmask Test4:
